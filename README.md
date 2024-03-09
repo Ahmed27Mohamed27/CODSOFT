@@ -8,5 +8,3 @@ By maintaining this task repository, I aim to showcase my growth as a software d
 Task 1 : To-Do-List App
 
 Task 2 : Alarm App
-
-Task 3 : Quotes App
